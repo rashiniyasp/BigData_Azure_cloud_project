@@ -1,0 +1,30 @@
+[
+	{
+	"CSV_relative_url":"Data-Analysis-for-Olist-Brazilian-E-Commerce/refs/heads/main/csv%20files/olist_customers_dataset.csv",
+	"file_name":"olist_customers_dataset.csv"
+	},
+	{
+	"CSV_relative_url":"Data-Analysis-for-Olist-Brazilian-E-Commerce/refs/heads/main/csv%20files/olist_geolocation_dataset.csv",
+	"file_name":"olist_geolocation_dataset.csv"
+	},
+	{
+	"CSV_relative_url":"Data-Analysis-for-Olist-Brazilian-E-Commerce/refs/heads/main/csv%20files/olist_geolocation_dataset_short.csv",
+	"file_name":"olist_geolocation_dataset_short.csv"
+	},
+	{
+	"CSV_relative_url":"Data-Analysis-for-Olist-Brazilian-E-Commerce/refs/heads/main/csv%20files/olist_order_reviews_dataset.csv",
+	"file_name":"olist_order_reviews_dataset.csv"
+	},
+	{
+	"CSV_relative_url":"Data-Analysis-for-Olist-Brazilian-E-Commerce/refs/heads/main/csv%20files/olist_orders_dataset.csv",
+	"file_name":"olist_orders_dataset.csv"
+	},
+	{
+	"CSV_relative_url":"Data-Analysis-for-Olist-Brazilian-E-Commerce/refs/heads/main/csv%20files/olist_sellers_dataset.csv",
+	"file_name":"olist_sellers_dataset.csv"
+	},
+	{
+	"CSV_relative_url":"Data-Analysis-for-Olist-Brazilian-E-Commerce/refs/heads/main/csv%20files/olist_products_dataset.csv",
+	"file_name":"olist_products_dataset.csv"
+	}
+]
