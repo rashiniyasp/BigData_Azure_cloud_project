@@ -11,12 +11,6 @@
 
 A production-grade **batch data engineering pipeline** built on Microsoft Azure, processing **100,000+ e-commerce transactions** from the Brazilian Olist dataset. The solution implements **Medallion Architecture** (Bronze → Silver → Gold) to transform raw multi-source data into actionable business intelligence.
 
-### 🎯 Key Achievements
-- ✅ **93.91% on-time delivery rate** across 99,441 orders
-- 💰 **R$ 15.4M total revenue** analyzed with geographic breakdown
-- 📊 **Automated ETL pipeline** processing 8 interconnected data sources
-- 🏗️ **Lakehouse architecture** with zero data duplication using Synapse Serverless SQL
-
 ---
 
 ## 🏗️ Architecture
